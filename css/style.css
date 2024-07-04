@@ -1,0 +1,15 @@
+/*BACKGROUND*/
+
+.my-bg-color-header{
+    background-color: #2C3E4F;
+}
+
+.my-bg-color-main{
+    background-color: #19BC9B;
+}
+
+/*MAIN*/
+
+#main-img{
+    max-width: 250px;
+}
