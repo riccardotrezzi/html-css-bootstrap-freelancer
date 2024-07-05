@@ -8,8 +8,38 @@
     background-color: #19BC9B;
 }
 
+.my-bg-color-footer-top{
+    background-color: #3B536D;
+}
+
+.my-bg-color-footer-bottom{
+    background-color: #2C3E4F;
+}
 /*MAIN*/
 
 #main-img{
     max-width: 250px;
+}
+
+.star-white{
+    color: white;
+}
+
+/*FOOTER*/
+
+#link-footer{
+    color: #1DB599;
+}
+
+.my-icon-footer{
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border: 1px solid white;
+    border-radius: 50%;
+    margin: 0 5px;
+    text-decoration: none;
+    color: white;
+    text-align: center;
 }
